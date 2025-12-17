@@ -93,4 +93,8 @@ def weather_page():
 if st.session_state.logged_in:
     weather_page()
 else:
+<<<<<<< HEAD
     login_page()
+=======
+    login_page()
+>>>>>>> 4a45a11e278ea1465b737c373454b09b6aeba1dd
